@@ -1,0 +1,31 @@
+{
+  "SheetID": 0,
+  "ID": 0,
+  "Duration": 256,
+  "Src": {
+    "x": 192,
+    "y": 1
+  },
+  "Size": {
+    "w": 43,
+    "h": 38
+  },
+  "Pivot": {
+    "x": -22,
+    "y": -20
+  },
+  "Hitboxes": {
+    "Outer Box": {
+      "Left": -10,
+      "Top": -20,
+      "Right": 10,
+      "Bottom": 20
+    },
+    "Inner Box": {
+      "Left": -9,
+      "Top": -20,
+      "Right": 9,
+      "Bottom": 20
+    }
+  }
+}

@@ -1,0 +1,24 @@
+	// Frame 0
+	SpriteFrame(-20, -19, 38, 39, 26, 0)
+	// Frame 1
+	SpriteFrame(-24, -20, 45, 38, 66, 1)
+	// Frame 2
+	SpriteFrame(-21, -19, 37, 39, 112, 0)
+	// Frame 3
+	SpriteFrame(-23, -19, 41, 39, 150, 0)
+	// Frame 4
+	SpriteFrame(-22, -20, 43, 38, 192, 1)
+	// Frame 5
+	SpriteFrame(-23, -19, 39, 39, 236, 0)
+	// Frame 6
+	SpriteFrame(-23, -19, 41, 39, 276, 0)
+	// Frame 7
+	SpriteFrame(-24, -20, 45, 38, 318, 1)
+	// Frame 8
+	SpriteFrame(-22, -19, 38, 39, 364, 0)
+	// Frame 9
+	SpriteFrame(-25, -19, 43, 39, 403, 0)
+	// Frame 10
+	SpriteFrame(-24, -20, 45, 38, 447, 1)
+	// Frame 11
+	SpriteFrame(-21, -19, 37, 39, 0, 40)
